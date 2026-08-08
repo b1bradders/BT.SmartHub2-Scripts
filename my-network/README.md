@@ -1,8 +1,10 @@
 # Advanced settings ➜ My network
 make sure you're on the <kbd> <kbd>Advanced settings</kbd> ➜ <kbd>My network</kbd> </kbd> page (or similar) before running either of these!
 
-it should look like this:
-<img width="791" height="804" alt="image" src="https://gist.github.com/user-attachments/assets/b09afb09-e049-43ac-8c3c-87382ed3331e" />
+it should look like the following image.
+
+<img width="791" height="804" alt="image" src="https://github.com/user-attachments/assets/a4849ea5-3523-4ba3-ae5e-027234568d9b" />
+
 
 ## scripts
 | file name | notes |
